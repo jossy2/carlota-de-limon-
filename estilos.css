@@ -1,0 +1,10 @@
+body {
+	font-family: Century gothic;
+	background-color: beige;
+}
+#carlota {
+	transition: all 0.8s;
+}
+#carlota:hover{
+	transform: scale(0.8);
+}
